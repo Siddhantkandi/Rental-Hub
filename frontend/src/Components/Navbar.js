@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg">
         <div className="container">
           <Link className="navbar-brand" to="/">
-            <img src={require("../images//rentalhub-logo-removebg-preview.png")} alt="" width={220} height={50} />
+            <img src={require("../images/rentalhub-logo-removebg-preview.png")} alt="" width={220} height={50} />
           </Link>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
